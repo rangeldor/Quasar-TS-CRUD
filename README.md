@@ -1,6 +1,6 @@
 # Quasar App (crud-quasar)
 
-A Quasar Framework app
+CRUD com Quasar v2, Vue 3 utilizando composition Api e Typescript
 
 ## Install the dependencies
 ```bash
